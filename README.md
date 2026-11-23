@@ -2,7 +2,7 @@
 
 Associate Software Developer at **Ribelz Integrated** from Sri Lanka. I build full-stack web apps and immersive, animated interfaces.
 
-- 💼 Promoted from intern to Associate Software Developer in six months
+- 💼 Promoted to Associate Software Developer after six month internship
 - 🛠️ React, Vue 3, TypeScript, Node.js, PHP, SQL
 - 🎨 Three.js (WebGL) and GSAP for 3D and scroll-driven experiences
 - ☁️ Firebase, Supabase, Cloudflare Workers, GitHub Actions
