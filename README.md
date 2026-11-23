@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kavinda 👋
 
-<!--
-**KPulathisi/KPulathisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Software Developer at **Ribelz Integrated** from Sri Lanka. I build full-stack web apps and immersive, animated interfaces.
 
-Here are some ideas to get you started:
+- 💼 Promoted from intern to Associate Software Developer in six months
+- 🛠️ React, Vue 3, TypeScript, Node.js, PHP, SQL
+- 🎨 Three.js (WebGL) and GSAP for 3D and scroll-driven experiences
+- ☁️ Firebase, Supabase, Cloudflare Workers, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **[VOLT](https://kpulathisi.github.io/Volt/)**: interactive 3D car configurator (Vue 3, Three.js, GSAP)
+- **[AUREL](https://kpulathisi.github.io/AUREL/)**: luxury resort website with scroll animations
+- **[Ceylon Serpents](https://ceylonserpents.pages.dev/)**: field guide to Sri Lanka's snakes in English, Sinhala and Tamil, with AI photo identification
+
+### Connect
+[Portfolio](https://kpulathisi.github.io/My-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/kavindapulathisi) · [Email](mailto:mdkpjayashan@gmail.com)
